@@ -20,7 +20,8 @@ Gradient boosting is an iterative learning technique that optimizes a model by c
 - Visualization of error convergence and feature importance.
 
 ## Files in the Repository
-- [gradient_boosting.ipynb](): Jupyter Notebook containing the code for manual gradient boosting implementation and comparisons.
+- [Ggradient_Boosting.ipynb](https://github.com/ziga23/GB_Implementation/blob/main/notebook/Untitled42.ipynb):
+Jupyter Notebook containing the code for manual gradient boosting implementation and comparisons.
 - README.md: This file.
 
 ## References
