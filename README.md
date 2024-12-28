@@ -19,6 +19,10 @@ Gradient boosting is an iterative learning technique that optimizes a model by c
 - Use of error metrics such as RMSE and MAE for regression tasks.
 - Visualization of error convergence and feature importance.
 
+## Files in the Repository
+- [gradient_boosting.ipynb](): Jupyter Notebook containing the code for manual gradient boosting implementation and comparisons.
+- README.md: This file.
+
 ## References
 - [Gradient Boosting (Wikipedia)](https://en.wikipedia.org/wiki/Gradient_boosting)
 - [Sklearn Gradient Boosting Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html#sklearn.ensemble.GradientBoostingRegressor)
