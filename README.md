@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ваш-профиль](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b)
 
 
 # Gradient Boosting Implementation
