@@ -1,4 +1,4 @@
-[![LinkedIn Logo](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/михаил-зигангиров-78018326b/)
+[![LinkedIn Logo]([https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/михаил-зигангиров-78018326b/](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b))
 
 # Gradient Boosting Implementation
 This repository contains a manual implementation of gradient boosting,
