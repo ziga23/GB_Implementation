@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b)      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hallaren) 
 
 ---
-## **Progress:** **$project is ready$%**
+## **Progress:** **project is ready**
 ---
  
 
