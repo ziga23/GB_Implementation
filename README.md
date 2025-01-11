@@ -1,6 +1,12 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b)      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hallaren) 
- 
 # Gradient Boosting Implementation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://ru.linkedin.com/in/mikhail-zigangirov-78018326b)      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hallaren) 
+
+---
+## **Progress:** **project is ready**
+---
+ 
+
 This repository contains a manual implementation of gradient boosting,
 a powerful ensemble learning method that combines multiple simple models (base learners) to create a stronger predictive model. 
 The project demonstrates the fundamentals of gradient boosting and compares the manual implementation with the sklearn library's implementation.
